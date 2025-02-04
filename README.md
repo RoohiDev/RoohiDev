@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amirhossein Roohi</h1>
+<h1 align="center">Hi 👋, I'm Amirhossein</h1>
 <h3 align="center">A front-end development learner form Iran</h3>
 
 - 🌱 I’m currently learning **Javascript and Git/Github**
