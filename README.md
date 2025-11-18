@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirhossein</h1>
-<h3 align="center">A front-end development learner form Iran</h3>
+<h3 align="center">A front-end CS student form Iran</h3>
 
-- 🌱 I’m currently learning **Javascript and Git/Github**
+- 🌱 I’m currently learning **Python and Git/Github**
 
 - 📫 How to reach me **amirhosseinroohicode@gmail.com**
 
