@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirhossein</h1>
-<h3 align="center">A front-end CS student form Iran</h3>
+<h3 align="center">A CS student form Iran</h3>
 
 - 🌱 I’m currently learning **Python and Git/Github**
 
