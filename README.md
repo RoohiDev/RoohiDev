@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Amirhossein<br>I'm A CS student form Iran<br>I’m currently learning Python and Linux
+Hi 👋, I'm Amirhossein<br>I'm a CS student form Iran<br>I’m currently learning Python and Linux
 
 
 ## 🌐 Socials:
