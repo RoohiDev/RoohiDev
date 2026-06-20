@@ -1,5 +1,12 @@
-# 💫 About Me:
-Hi 👋, I'm Amirhossein<br>I'm a CS student form Iran<br>I’m currently learning Python, Linux and Git
+# 🙋🏻‍♂️ About Me:
+
+Hi 👋, I'm Amirhossein
+
+🎓 CS Student at the University of Guilan
+
+💻 Embedded Software Intern (AI-Augmented) at [Technoarts](https://technoarts.ir/)
+
+🐍 Learning Python, Django, Linux and Git
 
 
 ## 🌐 Socials:
